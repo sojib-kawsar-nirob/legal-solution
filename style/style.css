@@ -1,0 +1,180 @@
+body{
+    margin: 0 8%;
+}
+.logo img{
+    width: 45px;
+    height: 45px;
+}
+.logo h3{
+    font-weight: 600;
+    font-size: 30px;
+    color: #414040;
+}
+i{
+    font-size: 24px;
+}
+.btn{
+    font-weight: 600;
+    font-size: 18px;
+    color: #ffff;
+    background-color: #B68C5A;
+    padding: 7px 12px;
+}
+.banner{
+    margin: 30px 0;
+    width: 100%;
+    height: 550px;
+    background-image: url("../images/banner.png");
+    background-position: center;
+    background-size: cover;
+}
+.banner-data{
+    padding-top: 100px;
+}
+.banner h1{
+    font-weight: 800;
+    font-size: 72px;
+    color: #ffff;
+    font-family: 'EB Garamond';
+}
+.banner p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #E7E7E7;
+    font-family: 'Poppins';
+    padding: 20px 0;
+}
+input{
+    width: 400px;
+    height: 45px;
+    padding-left: 20px;
+    border-radius: 8px;
+    border: none;
+    margin-right: 10px;
+}
+
+.cards{
+    padding: 50px 70px;
+}
+.cards h3{
+    padding: 15px 0;
+}
+.cards p{
+    padding-bottom: 15px;
+}
+.card-colour{
+    background-color: #E7E7E7;
+}
+.b-border{
+    border-bottom: 1px solid #E7E7E7;
+}
+.clint-section{
+    margin: 50px 0;
+}
+.carousel{
+    margin: 50px 0;
+}
+.b-data img{
+    width: 100px;
+    border-radius: 50px;
+}
+.b-data h3{
+    font-weight: 800;
+    font-size: 24px;
+    padding: 10px 0;
+}
+.b-data p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #F3F3F3;
+    margin-bottom: 120px;
+}
+/* Frequently Ask Question */
+.d-flex{
+    margin: 50px 0;
+}
+.half-width{
+    width: 50%;
+   
+}
+.half-width img{
+    width: 80%;
+    margin-left: 50px;
+}
+.question-h{
+    padding: 20px 40px;
+    background-color: #F3F3F3;
+    margin:0 20px  30px 0;
+    border-radius: 8px;
+}
+.question-h h2{
+    font-weight: 800;
+    font-size: 24px;
+    color: #414040;
+}
+.question-h p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+}
+.question-d h2{
+    padding: 20px 40px;
+    background-color: #F3F3F3;
+    margin:0 20px  30px 0;
+    font-weight: 800;
+    font-size: 24px;
+    color: #414040;
+    border-radius: 8px;
+}
+.form{
+    width: 50%;
+   
+}
+.form input{
+    width: 500px;
+    height: 70px;
+    background: #F3F3F3;
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+.form button{
+    background: #B68C5A;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    width: 500px;
+    height: 70px;
+    border-radius: 8px;
+    border: none;
+    margin-left: 30px;
+}
+.col-bg{
+    padding: 50px 0px;
+    border: 1px solid #FFFFFF;
+    background-color: #F3F3F3;
+}
+.col-bg img{
+    padding-bottom: 10px;
+}
+.col-bg h4 {
+    font-weight: 800;
+    font-size: 24px;
+    color: #414040;
+    padding-bottom: 10px;
+}
+.footer{
+    background-color:  #111111;
+    margin: 0 -10%;
+    padding: 70px 0;
+}
+.footer-col p{
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+.footer h3{
+    font-weight: 800;
+    font-size: 24px;
+    color: #FFFFFF;
+}
